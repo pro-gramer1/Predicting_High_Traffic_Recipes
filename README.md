@@ -19,6 +19,6 @@ Task List:
 6.  Definition of a metric for the business to monitor
    ○ How should the business monitor what they want to achieve?
    ○ Estimate the initial value(s) for the metric based on the current data?
-● Final summary including recommendations that the business should undertake.
+7.  Final summary including recommendations that the business should undertake.
 
 
